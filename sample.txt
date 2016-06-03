@@ -2,3 +2,4 @@
 テストです
 testtest
 test
+add 変更をインデックスに登録する
