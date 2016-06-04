@@ -1,4 +1,4 @@
 main()
 {
-	printf(XXXXXX);
+	printf("Hello test\n");
 }
