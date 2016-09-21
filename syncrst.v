@@ -11,7 +11,7 @@ output	rst_s;
 
 reg	rst_s;
 
-// internal
+// internal use
 reg	rst_i;
 
 //
